@@ -63,7 +63,7 @@ nav a:hover {
     height: auto;
 }
 
-.service {
+#service {
     display: inline-block;
     background-color: white;
     border: 5px solid green;
@@ -84,3 +84,4 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
